@@ -27,5 +27,5 @@ But file also can play like a container, for example, sqlite file, it is a conta
 - using xlang as primary coding language
 - using c++ to write libs imported into xlang to intrgrate with some kind of parser( word, excel, pdf...)  
 
-***Planning and welcome to join this project**  
+**Planning and welcome to join this project**  
 
