@@ -11,7 +11,7 @@ In the past, had accumulated many experience on Microsoft’s document based dat
 - When we do a website, for example, search-based documents website, like https://numpy.org , can we directly use existed files from native file system as its searchable document database?   
 - If we want to do a website with image and even large size file like video files ( .mp4, .avi)? most of time, we use file system to directly store these files, not silly put into relational database as bob.   
 - For database ( sql or no-sql), schema is very important, pre-defined schema or just meta data based schema?  
-- when you have very very large amount of files stored in your local disk, how to do quick search? treat it like a data-lake with automatically indexing and also can be replicated into other computer like you are using cloud based data-lake.  
+- when you have very very large amount of files stored in your local disk, how to do quick search? treat it like a data-lake with automatically indexing and also can be replicated into other computers like you are using cloud based data-lake.  
 
 # Important Concepts and terms  
 - Document Database with json, yaml, html, excel file, word file, pdf, image file, video files etc.  
@@ -23,6 +23,9 @@ In the past, had accumulated many experience on Microsoft’s document based dat
 - Container is just like a folder, folder path looks like namespace  
 But file also can play like a container, for example, sqlite file, it is a container  
 
+# Implementation
+- using xlang as primary coding language
+- using c++ to write libs imported into xlang to intrgrate with some kinf of parser( word, excel, pdf...)  
 
 **** Planning and welcome to join this project  ****  
 
