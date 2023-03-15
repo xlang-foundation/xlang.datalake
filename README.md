@@ -14,6 +14,8 @@ In the past, had accumulated many experience on Microsoft’s document based dat
 - when you have very very large amount of files stored in your local disk, how to do quick search? treat it like a data-lake with automatically indexing and also can be replicated into other computers like you are using cloud based data-lake.  
 
 # Important Concepts and terms  
+- **SQL** based query/updat, with extended grammar  
+- **ACID** MUST HAVE  
 - Document Database with json, yaml, html, excel file, word file, pdf, image file, video files etc.  
 - Document meta data --- retrieve from file system and file headers.  
 - Document Parser—such as pdf parser, ms word parser etc.  
