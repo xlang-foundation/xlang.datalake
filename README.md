@@ -9,7 +9,7 @@ Even more, how do you think about python pickle serialization, PyTorch directly 
 When we do a website, for example, search-based documents website, like https://numpy.org , can we directly use existed files from native file system as its searchable document database?   
 If we want to do a website with image and even large size file like video files ( .mp4, .avi)? most of time, we use file system to directly store these files, not silly put into relational database as bob.   
 For database ( sql or no-sql), schema is very important, pre-defined schema or just meta data based schema?  
-So terms below  
+# Important Concepts and terms  
 Document Database with json, yaml, html, excel file, word file, pdf, image file, video files etc.  
 Document meta data --- retrieve from file system and file headers.  
 Document Parser—such as pdf parser, ms word parser etc.  
