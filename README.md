@@ -1,7 +1,7 @@
 # xlang.datalake
 A datalake based on xlang and native file system to support namespace, blob, replication, version, SQL
 # Background  
-  ***Open-Source project is programmer’s novel***
+  ***Open-Source project is programmer’s novel***  
 in the past, had accumulated many experience on Microsoft’s document based database Comsosdb (Azure Cosmos DB), and its script language Scope (external side called U-SQL); and comparing with this Cosmos DB, had done some kind of technical research on MangoDB; this is one  kind, and another kind:  
 had long time technical experiences on relational database, and between years 2014-2016, was trying to integrate node-based database Neo4j Graph DB into my product, that time paid attention on NoSQL database, and bla bla bla…  
 AND during deep learning research and product development stage and practices on big data stuff, dataset is very important concept, what is dataset, a collection of data with any or free style hierarchical structure…  
